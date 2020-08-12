@@ -2,16 +2,4 @@
 
 Welcome to Flutter Clock!
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
-
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
-
-Example [Analog Clock](analog_clock)
-
-<img src='analog_clock/analog.gif' width='350'>
-
-Example [Digital Clock](digital_clock)
-
-<img src='digital_clock/digital.gif' width='350'>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5MV6vlPP7Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/5MV6vlPP7Ys/0.jpg)](https://youtu.be/5MV6vlPP7Ys)
